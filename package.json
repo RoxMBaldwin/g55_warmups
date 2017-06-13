@@ -1,0 +1,14 @@
+{
+  "name": "g55_cs_warmups",
+  "version": "1.0.0",
+  "description": "Practice CS data structures and algorithms once a week using JavaScript.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/g55_cs_warmups.git"
+  },
+  "homepage": "https://github.com/gSchool/g55_cs_warmups#readme",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "sinon": "^2.3.4"
+  }
+}
